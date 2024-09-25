@@ -1255,3 +1255,6 @@ C:\Users\Admin\OneDrive\Desktop\DoAnCNPM-Group10-main\Quanlyphongkham\obj\Debug\
 C:\Users\Admin\OneDrive\Desktop\DoAnCNPM-Group10-main\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.CoreCompileInputs.cache
 C:\Users\Admin\OneDrive\Desktop\DoAnCNPM-Group10-main\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe
 C:\Users\Admin\OneDrive\Desktop\DoAnCNPM-Group10-main\Quanlyphongkham\obj\Debug\Quanlyphongkham.pdb
+C:\Users\Admin\OneDrive\Desktop\DoAnCNPM-Group10-main\Quanlyphongkham-\obj\Debug\Quanlyphongkham.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\DoAnCNPM-Group10-main\Quanlyphongkham-\obj\Debug\Quanlyphongkham.exe
+C:\Users\Admin\OneDrive\Desktop\DoAnCNPM-Group10-main\Quanlyphongkham-\obj\Debug\Quanlyphongkham.pdb
